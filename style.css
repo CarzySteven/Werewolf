@@ -65,11 +65,11 @@ body {
   background:none;
   border:0;
   cursor: pointer;
-  color:white;
+  color:black;
   /*font-size: 2rem;*/
   font-size: 50px;
   text-transform: uppercase;
-  background:rgba(0,0,0,0.1);
+  background:#adf7d2;
   border-bottom:3px solid rgba(0,0,0,0.2);
   border-right:1px solid rgba(0,0,0,0.2);
   padding:1rem;
